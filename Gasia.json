@@ -9,15 +9,19 @@
 
     {
       "name": "system/LineageEffect5a.u",
-      "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/LineageEffect5a.u"
+      "url": "https://github.com/casper1new1-lgtm/asia/raw/refs/heads/main/LineageEffect5a.u"
     },
     {
       "name": "system/LineageSkillEffect.u",
-      "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/LineageSkillEffect.u"
+      "url": "https://github.com/casper1new1-lgtm/asia/raw/refs/heads/main/LineageSkillEffect.u"
     },
     {
       "name": "system/1ClassicSkillEffect.u",
-      "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/1ClassicSkillEffect.u"
+      "url": "https://github.com/casper1new1-lgtm/asia/raw/refs/heads/main/1ClassicSkillEffect.u"
+    },
+	{
+      "name": "system/user.ini",
+      "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/user.ini"
     },
 	  {
       "name": "system/Skillgrp.dat",
